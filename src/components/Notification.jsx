@@ -7,7 +7,7 @@ const Notification = () => {
     <NotificationStyles>
       <div className="notification-top-bar">
         <p>Vaša saradnja nam je potrebna!</p>
-        <Link to="/support-us">Support Us</Link>
+        <Link to="/support-us">VAŠA PODRŠKA</Link>
       </div>
     </NotificationStyles>
   )
