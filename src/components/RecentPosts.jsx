@@ -92,7 +92,7 @@ const RecentPosts = () => {
                       lower: true,
                     })}`}
                   >
-                    Read More
+                   čitaj više
                   </a>
                 </div>
               </article>
