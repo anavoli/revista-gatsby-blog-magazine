@@ -9,8 +9,8 @@ const about = () => {
   return (
     <Layout>
       <Seo
-        title="About Us | Revista"
-        description="Revista is a platform for passionate people to share knowledge. We are open source and believe in free learning."
+        title=" O nama | Neško "
+        description="Moja viđenja o nekim stvarima."
       />
 
       <AboutUs />
