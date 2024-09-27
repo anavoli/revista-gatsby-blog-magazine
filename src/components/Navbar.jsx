@@ -33,7 +33,7 @@ const Navbar = ({ toggle }) => {
             <button
               className="toggle-btn"
               onClick={toggle}
-              aria-label="Expand Menu"
+              aria-label="Proširi Menu"
             >
               <FaBars></FaBars>
             </button>
