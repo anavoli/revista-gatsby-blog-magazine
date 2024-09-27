@@ -12,7 +12,7 @@ const Support = () => {
       <Wrapper>
         <Seo
           title="Support Us | Revista"
-          description="There are several ways you can support Revista"
+          description="There are several ways you can+++++++++++ support Revista"
         />
         <div className="container support-container">
           <div className="row">
