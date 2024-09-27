@@ -5,22 +5,22 @@ const Links = ({ styleClass, children }) => {
     <ul className={styleClass}>
       <li>
         <Link to="/" className="page-link">
-          Home
+          Početna
         </Link>
       </li>
       <li>
         <Link to="/about" className="page-link">
-          About-o nama
+          O nama
         </Link>
       </li>
       <li>
         <Link to="/categories" className="page-link">
-          kategorije
+          Kategorije
         </Link>
       </li>
       <li>
         <Link to="/contact" className="page-link">
-          Contact-nema
+         
         </Link>
       </li>
     </ul>
