@@ -38,7 +38,7 @@ query Home {
       frontmatter {
         title
         category
-        date(formatString: "MMMM, Do YYYY")
+        date(formatString: "dddd MMMM Do, YYYY")
         image {
           childImageSharp {
             gatsbyImageData
