@@ -17,7 +17,7 @@ const Support = () => {
         <div className="container support-container">
           <div className="row">
             <div className="col-md-12">
-              <h1 className="section-title categories-title">Support Us</h1>
+              <h1 className="section-title categories-title">Support+++++++ Us</h1>
           
               <p>
                 We are also +++++++an{' '}
