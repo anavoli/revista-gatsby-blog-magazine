@@ -46,7 +46,7 @@ export const query = graphql`
         frontmatter {
           title
           category
-          date(formatString: "Do, MMMM YYYY")
+          date(formatString: "dddd MMMM Do, YYYY hh:mma")
           image {
             childImageSharp {
               gatsbyImageData(layout: CONSTRAINED, placeholder: BLURRED)
