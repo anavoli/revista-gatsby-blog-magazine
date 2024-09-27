@@ -27,7 +27,11 @@ const Footer = () => {
           </div>
           <div>
             <Link className="footer-link" to="/terms-and-conditions">
-              //Terms and Conditions//
+             /*
+===============
+terms-and-conditions
+===============
+*/
             </Link>
           </div>
         </div>
