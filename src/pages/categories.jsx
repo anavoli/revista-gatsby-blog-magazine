@@ -8,7 +8,7 @@ const categories = () => {
     <Layout>
       <Seo
         title="kategorije | Neško"
-        description="lista svih kattegorija "
+        description=" lista svih kategorija "
       />
       <AllCategories />
     </Layout>
