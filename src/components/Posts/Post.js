@@ -66,7 +66,7 @@ const Post = ({ excerpt, frontmatter, fields }) => {
             className="btn btn-outline-primary"
             to={`/${category.toLowerCase()}/${slugify(title, { lower: true })}`}
           >
-            Read More+++++++++++
+            Read More
           </Link>
         </div>
       </article>
