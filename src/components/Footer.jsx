@@ -27,13 +27,13 @@ const Footer = () => {
           </div>
           <div>
             <Link className="footer-link" to="/terms-and-conditions">
-              Terms and Conditions
+              //Terms and Conditions//
             </Link>
           </div>
         </div>
 
         <p className="footer-copyright">
-          &copy;2022-{new Date().getFullYear()} Revista. All rights reserved.
+          &copy;2022-{new Date().getFullYear()} Neško. All rights reserved.
         </p>
       </div>
     </FooterStyles>
