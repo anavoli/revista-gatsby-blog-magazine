@@ -10,7 +10,7 @@ const About = () => {
   return (
     <SidebarCard>
       <Wrapper>
-        <Title title="Who We Are" />
+        <Title title="Who+++++ We Are" />
         <StaticImage
           src="../../assets/logo.png"
           layout="fixed"
@@ -19,7 +19,7 @@ const About = () => {
           alt="author"
           className="img"
         />
-        <p>Find the best free educational resources on your favourite topic.</p>
+        <p>Find the best free educat++++++++++++++++ional resources on your favourite topic.</p>
         <p>Revista is free and open-source forever.</p>
         <SocialLinks className="sidebar-icons" />
       </Wrapper>
