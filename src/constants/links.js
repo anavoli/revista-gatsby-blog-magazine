@@ -20,7 +20,7 @@ const Links = ({ styleClass, children }) => {
       </li>
       <li>
         <Link to="/contact" className="page-link">
-          Contact
+          Contact-nema
         </Link>
       </li>
     </ul>
