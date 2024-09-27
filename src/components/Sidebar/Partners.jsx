@@ -8,7 +8,7 @@ import './sidebar-styles.scss'
 
 const partners = [
   {
-    name: 'Other site',
+    name: 'Other site - ostali sajtovi',
     logo: '',
     logoAlt: 'Logo for other site',
     url: 'https://example.com',
