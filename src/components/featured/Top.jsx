@@ -115,7 +115,7 @@ const Top = () => {
                   lower: true,
                 })}`}
               >
-                Read More
+                čitaj više
               </a>
             </div>
           </article>
