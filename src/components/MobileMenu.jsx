@@ -22,7 +22,7 @@ const MobileMenu = ({ isOpen, toggle }) => {
 
             // to="https://www.buymeacoffee.com/chrismorrison"
           >
-            Support Us
+            Podržite nas
           </Link>
         </div>
       </aside>
