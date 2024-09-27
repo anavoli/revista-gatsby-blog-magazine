@@ -11,7 +11,7 @@ const partners = [
     name: 'Other site - ostali sajtovi',
     logo: '',
     logoAlt: 'Logo for other site',
-    url: 'https://example.com',
+    url: 'https://schebet.netlify.app',
   },
   //
   // {
