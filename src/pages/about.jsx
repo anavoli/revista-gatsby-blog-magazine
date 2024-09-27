@@ -9,7 +9,7 @@ const about = () => {
   return (
     <Layout>
       <Seo
-        title=" O nama | Neško "
+        title=" Razmišljanja | Neško "
         description="Moja viđenja o nekim stvarima."
       />
 
