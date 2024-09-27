@@ -13,7 +13,7 @@ const AboutUs = () => {
               <AiOutlineRead className="icon" />
               <h3>Humble Beginnings</h3>
               <p>
-              Flannel fixie tilde gastropub actually. La croix everyday carry hot chicken shaman snackwave. Godard art party hexagon hot chicken franzen woke. 8-bit VHS hoodie heirloom, YOLO poutine scenester cloud bread kombucha next level truffaut mustache bruh polaroid kale chips. Small batch PBR&B trust fund ethical before they sold out. Master cleanse sustainable locavore vinyl prism squid single-origin coffee.
+             ++++++++++++++++ Flannel fixie tilde gastropub actually. La croix everyday carry hot chicken shaman snackwave. Godard art party hexagon hot chicken franzen woke. 8-bit VHS hoodie heirloom, YOLO poutine scenester cloud bread kombucha next level truffaut mustache bruh polaroid kale chips. Small batch PBR&B trust fund ethical before they sold out. Master cleanse sustainable locavore vinyl prism squid single-origin coffee.
               </p>
             </div>
           </div>
