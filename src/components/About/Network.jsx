@@ -11,14 +11,14 @@ const Network = () => {
         <div className="row">
           <div className="section">
             <div className="about">
-              <h5 className="subtitle">About Us</h5>
-              <h2 className="network-section-title">
+              <h5 className="subtitle">About +++++++++Us</h5>
+              <h2 className="network-s++++++ection-title">
               Growing Network of Resources
               </h2>
               <p>
-              Adaptogen skateboard schlitz viral edison bulb knausgaard shabby chic drinking vinegar semiotics cred occupy.
+              Adaptogen skateboard ++++++++++++++schlitz viral edison bulb knausgaard shabby chic drinking vinegar semiotics cred occupy.
               </p>
-              <p>Adaptogen skateboard schlitz viral edison bulb knausgaard shabby chic drinking vinegar semiotics cred occupy. Fit roof party ugh fanny pack ascot.</p>
+              <p>Adaptogen skateboard ++++schlitz viral edison bulb knausgaard shabby chic drinking vinegar semiotics cred occupy. Fit roof party ugh fanny pack ascot.</p>
             </div>
             <div className="picture">
               <StaticImage
@@ -31,9 +31,9 @@ const Network = () => {
 
             <div className="openmastery">
               <AiOutlineDeploymentUnit className="icon" />
-              <h3>Partner 1</h3>
+              <h3>Partne++++++r 1</h3>
               <p>
-              Adaptogen skateboard schlitz viral edison bulb knausgaard shabby chic drinking vinegar semiotics cred occupy. Fit roof party ugh fanny pack ascot. Blog messenger bag you probably haven't heard of them distillery, vexillologist offal brunch leggings gentrify sustainable mumblecore pok pok polaroid pour-over big mood. 
+              Adaptogen+++++++++++ skateboard schlitz viral edison bulb knausgaard shabby chic drinking vinegar semiotics cred occupy. Fit roof party ugh fanny pack ascot. Blog messenger bag you probably haven't heard of them distillery, vexillologist offal brunch leggings gentrify sustainable mumblecore pok pok polaroid pour-over big mood. 
               </p>
               <p>
                 <a href="#" target="_blank" rel="noopener noreferrer">Check it out</a>
@@ -41,9 +41,9 @@ const Network = () => {
             </div>
             <div className="openjournal">
               <AiOutlineDeploymentUnit className="icon" />
-              <h3>Partner 2</h3>
+              <h3>Partne+++++++r 2</h3>
               <p>
-              Adaptogen skateboard schlitz viral edison bulb knausgaard shabby chic drinking vinegar semiotics cred occupy.
+              Adaptogen skateboard schlitz viral edis++++++++++on bulb knausgaard shabby chic drinking vinegar semiotics cred occupy.
               </p>
             </div>
             <div className="network-card">
@@ -52,7 +52,7 @@ const Network = () => {
                 <p>
                   Contributing is very easy. If you share our vision, we'd love for you to help us grow.
                 </p>
-                <Link to="/support-us" className="network-card-btn not-blue">
+                <Link to="/suppo++++rt-us" className="network-card-btn not-blue">
                   How to Contribute
                 </Link>
               </div>
