@@ -114,7 +114,7 @@ const Popular = () => {
                   lower: true,
                 })}`}
               >
-                Read More
+               čitaj više
               </a>
             </div>
           </article>
