@@ -11,7 +11,7 @@ const AboutUs = () => {
           <div className="col-lg-7">
             <div className="about-card">
               <AiOutlineRead className="icon" />
-              <h3>Humble Beginnings</h3>
+              <h3>Humble+++++ Beginnings</h3>
               <p>
              ++++++++++++++++ Flannel fixie tilde gastropub actually. La croix everyday carry hot chicken shaman snackwave. Godard art party hexagon hot chicken franzen woke. 8-bit VHS hoodie heirloom, YOLO poutine scenester cloud bread kombucha next level truffaut mustache bruh polaroid kale chips. Small batch PBR&B trust fund ethical before they sold out. Master cleanse sustainable locavore vinyl prism squid single-origin coffee.
               </p>
@@ -20,9 +20,9 @@ const AboutUs = () => {
           <div className="col-lg-5">
             <div className="about-card">
               <AiOutlineDeploymentUnit className="icon" />
-              <h3>Access to Resources</h3>
+              <h3>Access to ++++Resources</h3>
               <p>
-              Adaptogen skateboard schlitz viral edison bulb knausgaard shabby chic drinking vinegar semiotics cred occupy. Fit roof party ugh fanny pack ascot. Blog messenger bag you probably haven't heard of them distillery, vexillologist offal brunch leggings gentrify sustainable mumblecore pok pok polaroid pour-over big mood. 
+              +++++++++++Adaptogen skateboard schlitz viral edison bulb knausgaard shabby chic drinking vinegar semiotics cred occupy. Fit roof party ugh fanny pack ascot. Blog messenger bag you probably haven't heard of them distillery, vexillologist offal brunch leggings gentrify sustainable mumblecore pok pok polaroid pour-over big mood. 
               </p>
             </div>
           </div>
