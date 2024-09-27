@@ -24,12 +24,12 @@ const Hero = () => {
       <div className="hero">
         <div className="row">
           <div className="col-lg-7 col-12 hero-text">
-            <h4>Learning Paths and Curated Lists</h4>
+            <h4>Razmišljaj godinu dana pa uradi u jednom danu</h4>
             <h1>
-              <span>Free/Open</span>
-              <br /> Education Resources
+              <span>Razmišljao/Napisao</span>
+              <br /> Nenad Đorić
             </h1>
-            <p>What are you interested in learning?</p>
+            <p>zlatno vreme je kad ima više učenika od učitelja</p>
           </div>
           <div className="col-lg-5 col-12">
             <div className="hero-categories">
