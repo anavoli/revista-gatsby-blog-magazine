@@ -122,7 +122,7 @@ export const query = graphql`
         title
         imageAttribution
         category
-        date(formatString: "MMMM Do, YYYY")
+        date(formatString: "dddd MMMM Do, YYYY")
         image {
           childImageSharp {
             gatsbyImageData(layout: CONSTRAINED, placeholder: BLURRED)
