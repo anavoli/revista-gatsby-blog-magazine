@@ -20,19 +20,19 @@ const Support = () => {
               <h1 className="section-title categories-title">Support Us</h1>
           
               <p>
-                We are also an{' '}
+                We are also +++++++an{' '}
                 <a
                   href="https://github.com/chrisnmorrison/revista-gatsby-blog-magazine"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  open-source blog template
+                  open-source blo+++++++++++g template
                 </a>
                 , and if you're interested in an out-of-the-box Markdown
                 blog/magazine starter, fork our repo and modify to fit your
                 uses!
               </p>
-              <p>There are a few ways you can support us:</p>
+              <p>There are a few ways +++++++++++you can support us:</p>
 
               {/* Item */}
               <div className="support-item">
@@ -53,7 +53,7 @@ const Support = () => {
                 <div>
                   <h2 className="support-title">Buy Me a Coffee</h2>
                   <p>
-                    Support Revista's founder and primary maintainer. Part of
+                    Support Revista's founder a++++++++++++++nd primary maintainer. Part of
                     your donations go to maintaining Revista, as well as the
                     other education promoting services that Chris created, like{' '}
                     <a
@@ -80,7 +80,7 @@ const Support = () => {
                 <div>
                   <a
                     className="support-link"
-                    href="https://github.com/chrisnmorrison/revista-gatsby-blog-magazine/blob/main/CONTRIBUTING.md"
+                    href="https://github.com/anavoli/revista-gatsby-blog-magazine.md"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
