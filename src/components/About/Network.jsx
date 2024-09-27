@@ -11,7 +11,7 @@ const Network = () => {
         <div className="row">
           <div className="section">
             <div className="about">
-              <h5 className="subtitle">About Us</h5>
+              <h5 className="subtitle">About++++++++++Us</h5>
               <h2 className="network-section-title">
               Growing Network+++++++++ of Resources
               </h2>
